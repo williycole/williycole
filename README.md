@@ -9,7 +9,7 @@
 ## I'm working👷🏻 as a Backend Dev but I'm a JS/Frontend Junkie at❤️. 
 
 - 🌱 I’m currently learning all the things 
-<img src="https://media.giphy.com/media/3NgcLVc9B2tEPUUCMz/giphy.gif" width="250" height="250"/>
+<img src="https://media.giphy.com/media/3NgcLVc9B2tEPUUCMz/giphy.gif" width="250" height="200"/>
 <!-- ![Drinking from the hose gif](https://media.giphy.com/media/3NgcLVc9B2tEPUUCMz/giphy.gif) -->
     -  but mostly more about Redux, Gatsby, Svelte, and growing my Springboot skills 
 
