@@ -3,11 +3,10 @@
 -->
 ## Hey there, my name is Cole!
 ![Alt Text](https://media.giphy.com/media/4Hmjz2sqdtASJ2gFMH/giphy.gif)
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 ####  I am a Former Geologist/Augur Slinger, and DOD Scientist/Bathymetric Map Maker turned Developer
 
 
-## I'm working👷🏻 as a Backend Dev but I'm a JS/Frontend Junkie at ❤️. 
+## I'm working👷🏻 as a Backend Dev but I'm a JS/Frontend Junkie at❤️. 
 
 - 🌱 I’m currently learning more about Redux, Gatsby, Svelte, and growing my Springboot skills 
 
