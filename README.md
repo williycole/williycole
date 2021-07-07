@@ -2,11 +2,11 @@
 **williycole/williycole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 ## Hey there, my name is Cole!
-![Alt Text](https://media.giphy.com/media/4Hmjz2sqdtASJ2gFMH/giphy.gif)
+![Alt Text](https://media.giphy.com/media/4Hmjz2sqdtASJ2gFMH/giphy.gif/width="40"height="40")
 ####  I am a Former Geologist/Augur Slinger, and DOD Scientist/Bathymetric Map Maker turned Developer
 
 
-## 👷🏻I'm working Backend Dev but I'm a JS/Frontend Junkie at ❤️. 
+## I'm working👷🏻 as a Backend Dev but I'm a JS/Frontend Junkie at ❤️. 
 
 - 🌱 I’m currently learning more about Redux, Gatsby, Svelte, and growing my Springboot skills 
 
