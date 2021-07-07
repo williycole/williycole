@@ -5,7 +5,6 @@
 <img src="https://media.giphy.com/media/4Hmjz2sqdtASJ2gFMH/giphy.gif" width="280" height="150"/> 
 
 ## I'm working👷🏻 as a Backend Dev but I'm a JS/Frontend Junkie at❤️. 
----
 - 🌱 I’m currently learning all the things... <img src="https://media.giphy.com/media/3NgcLVc9B2tEPUUCMz/giphy.gif" width="150" height="100"/>😂
     -  but mostly more about Redux, Gatsby, Svelte, and growing my Springboot skills 
 ---
