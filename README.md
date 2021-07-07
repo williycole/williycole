@@ -3,7 +3,7 @@
 -->
 ## Hey there, my name is Cole!
 ![Alt Text](https://media.giphy.com/media/4Hmjz2sqdtASJ2gFMH/giphy.gif)
-## I am a Former Geologist, augur slinger, and DOD map maker turned **Developer** 
+### I am a Former Geologist/Augur Slinger, and DOD Scientist/Bathymetric Map Maker turend **Developer** 
 
 
 ## 👷🏻I'm working Backend Dev but I'm a JS/Frontend Junkie at ❤️. 
