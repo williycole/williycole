@@ -5,7 +5,7 @@
 ## I am a Former Geologist, augur slinger, and DOD map maker turned **Developer**. 
 
 
-## 👷🏻I'm working as a Software Developer with Cook Systems at FedEx but I'm a JS/Frontend Junkie at ❤️. 
+## 👷🏻I'm working Backend Dev but I'm a JS/Frontend Junkie at ❤️. 
 
 - 🌱 I’m currently learning more about Redux, Gatsby, Svelte, and growing my Springboot skills 
 
