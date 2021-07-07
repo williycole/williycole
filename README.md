@@ -2,7 +2,7 @@
 **williycole/williycole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 ## Hey there, my name Cole!
-### Former Geologist, augur slinger, and DOD map maker turned ** Developer **. 
+### Former Geologist, augur slinger, and DOD map maker turned **Developer**. 
 ### Your #1 knucklehead programmer.
 ## 👷🏻 I'm currently working as a backend developer but I am a JS and Frontend Junkie at ❤️. 
 
