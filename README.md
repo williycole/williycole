@@ -6,8 +6,7 @@
 
 ## 👷🏻 I'm working as a Backend Dev but I'm a JS/Frontend Junkie at❤️. 
 
-## 🌱 I’m currently learning all the things...<img src="https://media.giphy.com/media/3NgcLVc9B2tEPUUCMz/giphy.gif" width="150" height="100"/>😂 
-#### I am mostly focusing on learning more about React/Redux, Gatsby, Svelte, and growing my Springboot skills. I am also dabbling in python a bit.  
+## 📈 I’m currently learning all the things...<img src="https://media.giphy.com/media/3NgcLVc9B2tEPUUCMz/giphy.gif" width="150" height="100"/>😂, mostly focusing on learning more about React/Redux, Gatsby, Svelte, and growing my Springboot skills. I am also dabbling in python a bit.  
 ---
 ## ⚡ Fun facts about me: 
 - I am a Former Geologist/Augur Slinger, and DOD Scientist/Bathymetric Map Maker turned Developer.
