@@ -1,9 +1,9 @@
 <!--
 **williycole/williycole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
-### Former geologist/auger slinger/map maker turned Software Developer. Your #1 knucklehead programmer.
 ## Hey there, my name Cole!
-
+### Former geologist/auger slinger/map maker turned Developer. 
+### Your #1 knucklehead programmer.
 ## 👷🏻 I'm currently working as a backend developer but I am a JS and Frontend Junkie at ❤️. 
 
 - 🌱 I’m currently learning more about Redux, Gatsby, Svelte, and growing my Springboot skills 
