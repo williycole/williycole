@@ -3,6 +3,7 @@
 -->
 ## Hey there, my name is Cole! 
 <img src="https://media.giphy.com/media/4Hmjz2sqdtASJ2gFMH/giphy.gif" width="280" height="150"/>
+
 ### I am a Former Geologist/Augur Slinger, and DOD Scientist/Bathymetric Map Maker turned Developer
 
 
