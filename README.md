@@ -4,7 +4,7 @@
 # Hey there, my name is Cole! 
 <img src="https://media.giphy.com/media/4Hmjz2sqdtASJ2gFMH/giphy.gif" width="280" height="150"/> 
 
-## 👷🏻 I'm currently working as a Software Developer at FedEx. 
+## 👷🏻 I'm currently working as a Software Developer at FedEx with Springboot and Redis. 
 
 ## 📈 I’m currently learning all the things...<img src="https://media.giphy.com/media/3NgcLVc9B2tEPUUCMz/giphy.gif" width="150" height="100"/>😂, mostly focusing on learning more about React/Redux, Gatsby, Svelte, Python and growing my Springboot skills. 
 ---
