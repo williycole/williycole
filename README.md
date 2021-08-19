@@ -9,7 +9,7 @@
 {
   "Me": ["Christian","Husband", "Skateboarder", "Powerlifter", "Developer"],
   "Hobbies": ["Playing the Banjo", "Fly Fishing", "Hunting", "Mech Keyboard Tinkering", "BBJ"],
-  "Intrests": ["Mental Toughness Training", "Mentorship/Coaching", "Hot Rods", "DIY", "Anime Nerd"],
+  "Intrests": ["Mental Toughness Training", "Mentorship/Coaching", "Hot Rods", "DIY", "Anime"],
   "Programing Intrests": ["Big Data", "Data Visualization", "Automation", "BigO and Speed"]
 }
 ```
