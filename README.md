@@ -14,7 +14,10 @@
 ```
 
 
-# 👷🏻 What do I do? ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=red)![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+# 👷🏻 What do I do? 
+
+## Languages
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=red)![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Backend 
 ![spring boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
