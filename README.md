@@ -2,7 +2,17 @@
 **williycole/williycole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 #  Hey there 👋, I'm Cole! 
-<img src="https://media.giphy.com/media/4Hmjz2sqdtASJ2gFMH/giphy.gif" width="280" height="150"/> 
+
+
+# ⚡ Who I am: 
+```json
+{
+  "Me": ["Christian","Husband", "Skateboarder", "Powerlifter", "Developer", "Anime Nerd"],
+  "Hobbies": ["Playing the Banjo", "Fly Fishing", "Hunting", "Mech Keyboard Tinkering", "BBJ"],
+  "Programing Intrests": ["All things programming","Data Visualization", "Automation", "BigO and Speed", "Big Data"]
+}
+```
+
 
 # 👷🏻 What do I do? ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=red)![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -12,16 +22,10 @@
 
 ## Frontend 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)![fontawesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)![inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
----
-# ⚡ Who I am: 
-```json
-{
-  "Me": ["Christian","Husband", "Skateboarder", "Powerlifter", "Developer", "Anime Nerd"],
-  "Hobbies": ["Playing the Banjo", "Fly Fishing", "Hunting", "Mech Keyboard Tinkering", "BBJ"],
-  "Programing Intrests": ["All things programming","Data Visualization", "Automation", "BigO and Speed", "Big Data"]
-}
-```
-<img src="https://cdna.artstation.com/p/assets/images/images/020/794/260/original/arkerxx-jao-gundam3.gif?1569208645" width="230" height="150"/>
+
 
 ## 📫 How to reach me: 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cole-boren-4b0b3a50/)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://william.cole.boren@gmail.com)
+
+
+<img src="https://media.giphy.com/media/4Hmjz2sqdtASJ2gFMH/giphy.gif" width="280" height="150"/><img src="https://cdna.artstation.com/p/assets/images/images/020/794/260/original/arkerxx-jao-gundam3.gif?1569208645" width="230" height="150"/>
