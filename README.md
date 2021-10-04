@@ -25,7 +25,10 @@
 | ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) | ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) 
 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williycole&theme=dark"/> <img src="https://github-readme-stats.vercel.app/api?username=williycole&theme=dark&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=williycole&theme=dark&layout=compact"/>
+
+ 
+
 
 
 
