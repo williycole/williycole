@@ -1,9 +1,15 @@
 <!--
 **williycole/williycole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
+
+<div align="center">
+  
 #  Hey there 👋, I'm Cole! 
 
 # ⚡ Who I am: 
+  
+</div>
+
 ```json
 {
   "Me": ["Christian","Husband", "Skateboarder", "Powerlifter", "Developer"],
@@ -12,7 +18,6 @@
   "Programing Intrests": ["Big Data", "Data Visualization", "Automation", "BigO and Speed"]
 }
 ```
-
 <div align="center">
   
 # 👨‍💻 What do I do? 
