@@ -13,7 +13,7 @@
 ```json
 {
   "Me": ["Christian","Husband", "Skateboarder", "Powerlifter", "Developer"],
-  "Hobbies": ["Playing the Banjo", "Fly Fishing", "Hunting", "BJJ"],
+  "Hobbies": ["Playing the Banjo", "Fly Fishing", "Hunting", "BJJ", "Gaming"],
   "Interests": ["Mental Toughness", "Hot Rods", "DIY", "Mech Keyboards", "Anime"],
   "Programing Interests": ["All things C#", "Data Visualization", "Automation", "BigO/Speed"]
 }
