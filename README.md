@@ -12,10 +12,10 @@
 
 ```json
 {
-  "Me": ["Christian","Husband", "Skateboarder", "Powerlifter", "Developer"],
-  "Hobbies": ["Playing the Banjo", "Fly Fishing", "Hunting", "BJJ", "Gaming"],
+  "Me": ["Christian","Husband", "Skateboarder", "Powerlifter"],
+  "Hobbies": ["Playing the Banjo", "Fly Fishing", "Hunting", "Gundam", "Gaming"],
   "Interests": ["Mental Toughness", "Hot Rods", "DIY", "Mech Keyboards", "Anime"],
-  "Programing Interests": ["All things C#", "Data Visualization", "Automation", "BigO/Speed"]
+  "Tech Interests": ["All things C#", "Functional Programing", "High Performace Code", "VR/AR/MV"]
 }
 ```
 <div align="center">
