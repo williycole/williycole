@@ -15,7 +15,7 @@
   "Me": ["Christian","Husband", "Skateboarder", "Powerlifter"],
   "Hobbies": ["Playing the Banjo", "Fly Fishing", "Hunting", "Gundam", "Gaming"],
   "Interests": ["Mental Toughness", "Hot Rods", "DIY", "Mech Keyboards", "Anime"],
-  "Tech Interests": ["All things C#", "Functional Programing", "High Performace Code", "VR/AR/MV"]
+  "Tech Interests": ["All things C#", "Functional Programing", "Clean Code/Refactoring Messy Code", "VR/AR/MV"]
 }
 ```
 <div align="center">
