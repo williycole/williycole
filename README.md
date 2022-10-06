@@ -36,7 +36,7 @@
 <br>
   
   
-<img src="https://github-readme-stats.vercel.app/api?username=williycole&theme=dark&layout=compact"/>
+--- insert
 
 ## 📫 How to reach me: 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cole-boren-4b0b3a50/)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://william.cole.boren@gmail.com)
