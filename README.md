@@ -5,6 +5,7 @@
 <div align="center">
   
 #  Hey there 👋, I'm Cole! 
+<img src ="https://c.tenor.com/j7Dlyf-gbPIAAAAC/kamille-bidan-z-gundam.gif" width="230" height="150"/>
 
 # ⚡ Who I am: 
   
@@ -35,13 +36,14 @@
 
 <br>
   
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williycole&theme=dracula&show_icons=true)](https://github.com/williycole/github-readme-stats)
+<!-- FIXME-->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williycole&theme=dracula&show_icons=true)](https://github.com/williycole/github-readme-stats) -->
 
 ## 📫 How to reach me: 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cole-boren-4b0b3a50/)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://william.cole.boren@gmail.com)
 
-<img src="https://media.giphy.com/media/kvNlYaD7Suf1S/giphy.gif" width="280" height="150"/><img src="https://cdna.artstation.com/p/assets/images/images/020/794/260/original/arkerxx-jao-gundam3.gif?1569208645" width="230" height="150"/><img src ="https://c.tenor.com/j7Dlyf-gbPIAAAAC/kamille-bidan-z-gundam.gif" width="230" height="150"/>
+<!-- <img src="https://media.giphy.com/media/kvNlYaD7Suf1S/giphy.gif" width="280" height="150"/> -->
+<!-- <img src="https://cdna.artstation.com/p/assets/images/images/020/794/260/original/arkerxx-jao-gundam3.gif?1569208645" width="230" height="150"/> -->
   
   
 </div>
