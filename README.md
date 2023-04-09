@@ -12,9 +12,9 @@
 ```json
 {
   "Me": ["Christian","Husband"],
-  "Hobbies": ["BJJ", "Picking up heavy things", "Skateboarding", "Playing the Banjo", "Fly Fishing", "Hunting", "Backpacking", "Gunpla"],
+  "Hobbies": ["BJJ", "Strength Training", "Skateboarding", "Banjo", "Fly Fishing", "Hunting", "Backpacking", "Gunpla"],
   "Interests": ["Martial Arts", "Mental Toughness", "Hot Rods", "DIY", "Mech Keyboards", "Anime(mostly Gundam)", "TB-RPGS"],
-  "Tech Interests": ["All things .NET", "K.I.S.S.", "Backend & Apis", "Svelte", "Performant/Fast Code"]
+  "Tech Interests": ["All things .NET", "Go", "K.I.S.S.", "Backend & Apis", "Svelte", "Performant/Fast Code", "AI", "VR"]
 }
 ```
 <div align="center">
