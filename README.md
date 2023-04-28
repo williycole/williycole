@@ -5,7 +5,7 @@
 <div align="center">
   
 #  Hey there 👋, I'm Cole! 
-# ⚡ Who I am: 
+# ( ☞•́⍛•̀)╭☞ About me: 
   
 </div>
 
