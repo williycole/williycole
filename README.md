@@ -27,7 +27,10 @@
 
 
 ### See what I'm building ➡️[100 Projects of Code](https://github.com/williycole/100-Projects-of-Code-TOC/tree/main)
-#### Track what I'm learning. __Updated periodically__⬇️ 
+
+#### Track what I'm learning. ⬇️ 
+*Updated as predictably as Char Aznable's mask changes*
+
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643ea604e2725773749150ba?variant=dark&roadmaps=backend%2Cgolang%2Caspnet-core%2Ccomputer-science)](https://roadmap.sh)
 
 ## 📫 How to reach me: 
