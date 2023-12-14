@@ -29,7 +29,9 @@
 
 ---
 
+<!-- turned this off for now and made that repo private
 ### *See what I'm Building* [100 Projects of Code](https://github.com/williycole/100-Projects-of-Code-TOC/tree/main) 
+-->
 
 ### What I'm learning 
 
