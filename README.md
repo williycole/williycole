@@ -14,7 +14,7 @@
     "Me": ["Christian", "Husband"],
     "Hobbies": ["BJJ", "Strength Training", "Skateboarding", "Banjo", "Fly Fishing", "Hunting", "Backpacking", "Gunpla"],
     "Interests": ["Martial Arts", "Mental Toughness", "Hot Rods", "DIY", "Mech Keyboards", "Anime (mostly Gundam)", "TB-RPGS"],
-    "Tech Interests": ["All things .NET", "Go", "K.I.S.S.", "Backend & APIs", "Svelte", "Performant/Fast Code", "AI", "VR"]
+    "Tech Interests": ["All things .NET", "C++", "Go", "K.I.S.S.", "Backend & APIs", "Svelte", "Performant/Fast Code", "AI", "VR"]
   }
 }
 ```
