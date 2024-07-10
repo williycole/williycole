@@ -34,8 +34,7 @@
 -->
 
 ### What I'm learning 
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643ea604e2725773749150ba?variant=dark&roadmaps=aspnet-core%2Cgolang%2Ccomputer-science%2Cbackend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/643ea604e2725773749150ba?variant=dark)](https://roadmap.sh)
 
 ## 📫 How to reach me: 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cole-boren-4b0b3a50/)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://william.cole.boren@gmail.com)
