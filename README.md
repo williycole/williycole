@@ -12,9 +12,9 @@
 {
   "About Me": {
     "Me": ["Christian", "Husband"],
-    "Hobbies": ["BJJ", "Lifting", "Skateboarding", "Banjo", "Fly Fishing", "Backpacking", "Gunpla"],
+    "Hobbies": ["BJJ", "Lifting", "Skateboarding", "Fly Fishing", "Banjo", "Backpacking", "Gunpla"],
     "Interests": ["Martial Arts", "Minimalism", "Doing Hard Things", "Anime (mostly Gundam)", "Rpgs/Board Games"],
-    "Tech Interests": [".NET, Go, Zig", "K.I.S.S.", "Unit Tests/Performance Testing", "Svelte", "Embedded/Systems Programming", "AI", "VR"]
+    "Tech Interests": ["Go, Zig", "K.I.S.S.", "Unit Testing", "Performance Optimization", "Observability", "AI", "VR"]
   }
 }
 ```
