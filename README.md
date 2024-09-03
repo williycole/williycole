@@ -14,7 +14,7 @@
     "Me": ["Christian", "Husband"],
     "Hobbies": ["BJJ", "Lifting", "Skateboarding", "Fly Fishing", "Banjo", "Backpacking", "Gunpla"],
     "Interests": ["Martial Arts", "Minimalism", "Doing Hard Things", "Anime (mostly Gundam)", "Rpgs/Board Games"],
-    "Tech Interests": ["Go, Zig", "K.I.S.S.", "Unit Testing", "Performance Optimization", "Observability", "AI", "VR"]
+    "Tech Interests": ["Go", "Zig", "K.I.S.S.", "Unit Testing", "Performance Optimization", "Observability", "AI", "VR"]
   }
 }
 ```
