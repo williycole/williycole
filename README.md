@@ -2,16 +2,20 @@
 **williycole/williycole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-
 # Hey there 👋, I'm Cole!
 
-I'm a Developer currently working with ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white).
+I'm a Developer currently working with 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white).
+
+I like all things Go, testing, and quality/performance focused. I write about that here: [Cole's Blog](https://williycole.github.io/cb-site/).
 
 ## Tech Stack
 
-<details>
-  <summary>🔮Backend</summary>
-  
+<div style="display: flex; justify-content: space-between;">
+
+  <details style="width: 48%;">
+    <summary>🔮 Backend</summary>
+    
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
@@ -20,17 +24,20 @@ I'm a Developer currently working with ![Go](https://img.shields.io/badge/Go-00A
   ![k6](https://img.shields.io/badge/k6-7D64FF.svg?style=for-the-badge&logo=k6&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</details>
+    
+  </details>
 
-<details>
-  <summary>💅Frontend</summary>
-  
+  <details style="width: 48%;">
+    <summary>💅 Frontend</summary>
+    
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-</details>
+  
+  </details>
+
+</div>
 
 ## GitHub Stats & What I'm Learning
 
