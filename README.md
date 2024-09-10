@@ -10,7 +10,7 @@ I'm a Developer currently working with ![Go](https://img.shields.io/badge/Go-00A
 ## Tech Stack
 
 <details>
-  <summary>Backend</summary>
+  <summary>🔮Backend</summary>
   
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -23,7 +23,7 @@ I'm a Developer currently working with ![Go](https://img.shields.io/badge/Go-00A
 </details>
 
 <details>
-  <summary>Frontend</summary>
+  <summary>💅Frontend</summary>
   
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,12 +35,9 @@ I'm a Developer currently working with ![Go](https://img.shields.io/badge/Go-00A
 ## GitHub Stats & What I'm Learning
 
 <div style="display: flex; justify-content: space-between;">
-
   <div style="width: 48%;">
     <img src="https://github-readme-stats.vercel.app/api?username=williycole&show_icons=true&theme=dark" />
   </div>
-  
-
 </div>
 
 ### What I'm Learning
