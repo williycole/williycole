@@ -1,6 +1,8 @@
 <!--
 **williycole/williycole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
+
+
 # Hey there 👋, I'm Cole!
 
 I'm a Developer currently working with ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white).
@@ -34,14 +36,17 @@ I'm a Developer currently working with ![Go](https://img.shields.io/badge/Go-00A
 
 <div style="display: flex; justify-content: space-between;">
 
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=williycole&show_icons=true&theme=dark" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williycole&layout=compact&theme=dark" />
-
-  <a href="https://roadmap.sh">
-    <img width="100%" src="https://roadmap.sh/card/tall/643ea604e2725773749150ba?variant=dark" />
-  </a>
+  <div style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=williycole&show_icons=true&theme=dark" />
+  </div>
+  
 
 </div>
+
+### What I'm Learning
+<a href="https://roadmap.sh">
+  <img src="https://roadmap.sh/card/tall/643ea604e2725773749150ba?variant=dark" style="width: 100%;" />
+</a>
 
 ## Connect With Me
 
