@@ -50,8 +50,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=williycole&show_icons=true&theme=dark" />
   </div>
 </div>
-
+<!--
 ### What I'm Learning
 <a href="https://roadmap.sh">
   <img src="https://roadmap.sh/card/tall/643ea604e2725773749150ba?variant=dark" style="width: 100%;" />
 </a>
+-->
