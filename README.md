@@ -4,12 +4,16 @@
 
 # Hey there 👋, I'm Cole!
 
-I'm a Developer currently working with 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white).
+#### I'm a Software Engineer currently working with Go. I write about software here: [My Website & Blog](https://williycole.github.io/cb-site/).
 
-I like all things Go, testing, and quality/performance focused. I write about that here: [Cole's Blog](https://williycole.github.io/cb-site/).
+#### Connect with me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-boren-4b0b3a50/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william.cole.boren@gmail.com)
 
-## Tech Stack
+####
+<img src="https://c.tenor.com/j7Dlyf-gbPIAAAAC/kamille-bidan-z-gundam.gif" width="200" />
+
+## Things I've Used
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -51,10 +55,3 @@ I like all things Go, testing, and quality/performance focused. I write about th
 <a href="https://roadmap.sh">
   <img src="https://roadmap.sh/card/tall/643ea604e2725773749150ba?variant=dark" style="width: 100%;" />
 </a>
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-boren-4b0b3a50/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william.cole.boren@gmail.com)
-
-<img src="https://c.tenor.com/j7Dlyf-gbPIAAAAC/kamille-bidan-z-gundam.gif" width="200" />
