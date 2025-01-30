@@ -4,7 +4,7 @@
 
 # Hey there 👋, I'm Cole!
 
-#### I'm a Software Engineer currently working with Go. I write about software here: [My Website & Blog](https://williycole.github.io/cb-site/).
+#### I'm a Software Engineer currently working with Go. I write about Go, Neovim, GameDev and other things here: [My Website & Blog](https://williycole.github.io/cb-site/).
 
 #### Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-boren-4b0b3a50/)
