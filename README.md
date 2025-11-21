@@ -4,7 +4,7 @@
 
 # Hey there 👋, I'm Cole!
 
-#### Recently I've been working primarily with Go. I have blog I'm slowly getting back to : [My Website & Blog](https://williycole.github.io/cb-site/).
+#### Recently I've been working primarily with Go. I have a [blog](https://williycole.github.io/cb-site/) I'm slowly getting back to.
 
 ### Toolbox
 
