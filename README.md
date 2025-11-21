@@ -4,8 +4,7 @@
 
 # Hey there 👋, I'm Cole!
 
-#### I'm a Software Engineer currently working with Go. 
-I write about Go, Neovim, GameDev and other things here: [My Website & Blog](https://williycole.github.io/cb-site/).
+#### Recently I've been working primarily with Go. I have blog I'm slowly getting back to : [My Website & Blog](https://williycole.github.io/cb-site/).
 
 ### Toolbox
 
