@@ -1,18 +1,16 @@
 <!--
 **williycole/williycole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
+# Coffee-powered, stubbornly opinionated, always open to collab.
 
-# Hey there 👋, I'm Cole!
-
-# I've been doing the dev thing since 2019. I paractice slow productivity and builds things that don’t suck to use. 
-
-
-### Stats for the nerds
+## I've been doing the dev thing since 2019. I paractice slow productivity and builds things that don’t suck to use. 
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 48%;">
     <img src="https://github-readme-stats.vercel.app/api?username=williycole&show_icons=true&theme=dark" />
   </div>
 </div>
+
+
 
 ### Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-boren-4b0b3a50/)
