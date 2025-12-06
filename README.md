@@ -4,11 +4,10 @@
 
 # Hey there 👋, I'm Cole!
 
-#### I've been doing the dev thing since 2019. I paractice slow productivity and builds things that don’t suck to use. 
+# I've been doing the dev thing since 2019. I paractice slow productivity and builds things that don’t suck to use. 
 
 
 ### Stats for the nerds
-
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 48%;">
     <img src="https://github-readme-stats.vercel.app/api?username=williycole&show_icons=true&theme=dark" />
