@@ -8,10 +8,10 @@
 
 <img src="https://c.tenor.com/j7Dlyf-gbPIAAAAC/kamille-bidan-z-gundam.gif" width="200" />
 
-
+<!--
 [![Nerd Stats](https://github-readme-stats.vercel.app/api?username=williycole&show_icons=true&theme=grubox)](https://github.com/williycole)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williycole&layout=compact&theme=grubox)](https://github.com/williycole)
-
+-->
 
 ### Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-boren-4b0b3a50/)
