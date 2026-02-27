@@ -6,15 +6,6 @@
 
 #### Coffee-powered, slow productivity, KISS, builds things that don’t suck to use, always learning, allways open to collab. 
 
-<!--
-[![Nerd Stats](https://github-readme-stats.vercel.app/api?username=williycole&show_icons=true&theme=grubox)](https://github.com/williycole)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williycole&layout=compact&theme=grubox)](https://github.com/williycole)
--->
-
-### Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-boren-4b0b3a50/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william.cole.boren@gmail.com)
-
 <pre><code>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⠄⠀⠀⠀⠀⠀⠀⢸⣧⠀⠀⣀⣀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡀⢠⣾⣟⣡⣴⠶⠒⢀⣀⣤⣾⣿⣿⣷⣿⡟⠁⠀⠀⠀⠀
@@ -54,3 +45,7 @@
  (_  )_  )_   \_)  / ) / /     )   )\ )   (_   )_) )_)  / ` )_     / `  / )\    /  )_)  / )\_)        
  __)(__ (__    /  (_/ (_/    _(_  (  (    __) /   / /  (_  (__    (_   (_/  \/\/  /__) (_/  /  o o o                                                                                                       
 </code></pre>
+
+### Connect with me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-boren-4b0b3a50/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william.cole.boren@gmail.com)
