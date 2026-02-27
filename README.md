@@ -4,8 +4,7 @@
 
 ## Doing the dev thing since 2019. 
 
-#### Coffee-powered, slow productivity, KISS, builds things that don’t suck to use, always learning, allways open to collab. 
-
+KISS | Builds things that don’t suck to use | Always keep learning
 <pre><code>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⠄⠀⠀⠀⠀⠀⠀⢸⣧⠀⠀⣀⣀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡀⢠⣾⣟⣡⣴⠶⠒⢀⣀⣤⣾⣿⣿⣷⣿⡟⠁⠀⠀⠀⠀
