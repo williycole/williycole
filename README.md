@@ -6,8 +6,6 @@
 
 #### Coffee-powered, slow productivity, KISS, builds things that don’t suck to use, always learning, allways open to collab. 
 
-<img src="https://c.tenor.com/j7Dlyf-gbPIAAAAC/kamille-bidan-z-gundam.gif" width="200" />
-
 <!--
 [![Nerd Stats](https://github-readme-stats.vercel.app/api?username=williycole&show_icons=true&theme=grubox)](https://github.com/williycole)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williycole&layout=compact&theme=grubox)](https://github.com/williycole)
